@@ -1,0 +1,11 @@
+F:\Projects\ChatAPI\ChatAPI\bin\Debug\netcoreapp2.0\ChatAPI.deps.json
+F:\Projects\ChatAPI\ChatAPI\bin\Debug\netcoreapp2.0\ChatAPI.runtimeconfig.json
+F:\Projects\ChatAPI\ChatAPI\bin\Debug\netcoreapp2.0\ChatAPI.runtimeconfig.dev.json
+F:\Projects\ChatAPI\ChatAPI\bin\Debug\netcoreapp2.0\ChatAPI.dll
+F:\Projects\ChatAPI\ChatAPI\bin\Debug\netcoreapp2.0\ChatAPI.pdb
+F:\Projects\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.0\ChatAPI.csproj.CoreCompileInputs.cache
+F:\Projects\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.0\ChatAPI.AssemblyInfoInputs.cache
+F:\Projects\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.0\ChatAPI.AssemblyInfo.cs
+F:\Projects\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.0\ChatAPI.dll
+F:\Projects\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.0\ChatAPI.pdb
+F:\Projects\ChatAPI\ChatAPI\obj\Debug\netcoreapp2.0\ChatAPI.csprojAssemblyReference.cache
